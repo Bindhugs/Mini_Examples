@@ -1,4 +1,5 @@
 tasks = []
+
 while True:
 
     print("1. Insert task \n 2. Delete completed task \n 3. View the remaining task \n 4. Exit")
