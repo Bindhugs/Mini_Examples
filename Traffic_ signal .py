@@ -1,3 +1,5 @@
+#Traffic signal generator
+
 while True:
     light = input("Enter light color: \n")
     if(light=="Exit")or (light=="EXIT")or (light=="exit"):
