@@ -1,6 +1,7 @@
 #Generating random password 
 
 import random
+
 chars = 'abcdefghijklmnopqrstuvwxyz123456789'
 password = ' '
 
