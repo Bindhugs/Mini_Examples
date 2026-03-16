@@ -9,3 +9,8 @@ File: `To_Do_List.py`
 This will predict the traffic light based on the user input
 
 File: `traffic_signal.py`
+
+### Random_number_guessing
+This will generate a random number and will tell the user to guess by giving hints
+
+File: `random_number.py`
