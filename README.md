@@ -14,3 +14,13 @@ File: `traffic_signal.py`
 This will generate a random number and will tell the user to guess by giving hints
 
 File: `random_number.py`
+
+### Simple_calculator
+This is a simple calculator which will do basic operations
+
+File: `Simple_calculator.py`
+
+### Random_password
+This will generate a random password with all the characters
+
+File: `Random_password.py`
