@@ -24,3 +24,14 @@ File: `Simple_calculator.py`
 This will generate a random password with all the characters
 
 File: `Random_password.py`
+
+### Simple_Interest_Calculator
+This will calculate the interest 
+
+File: `simple_interest_calculator.py`
+
+### Palindrome_Checking.py
+This will check whether the given word is palindrome or not
+
+File: `palindrome_checker.py`
+
