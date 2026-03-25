@@ -1,3 +1,4 @@
+#count_upper-lower_cases 
 text = input("Enter a string: ")
 
 upper = 0
