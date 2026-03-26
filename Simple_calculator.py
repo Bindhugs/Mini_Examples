@@ -10,7 +10,7 @@ while True:
     if op == 'Exit' or 'exit' or 'EXIT':
         print("Exiting Calculator..")
         break
-    
+
     if op == "+":
         print(a+b)
     elif op == "-":
