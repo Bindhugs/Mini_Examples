@@ -35,3 +35,13 @@ This will check whether the given word is palindrome or not
 
 File: `palindrome_checker.py`
 
+### Menu
+This is just a small menu type program
+
+File: `menu.py`
+
+
+
+
+
+
