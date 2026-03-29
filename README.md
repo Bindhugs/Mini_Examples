@@ -45,7 +45,10 @@ It counts upper and lower case letters in the given sentence
 
 File: `count_ipper_lowercases.py`
 
-###
+### Count Vowels
+It counts the vowels present in the word
+
+File: `count_vowels.py`
 
 
 
