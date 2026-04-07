@@ -40,7 +40,15 @@ This is just a small menu type program
 
 File: `menu.py`
 
+### Count Upper And Lower Case
+It counts upper and lower case letters in the given sentence
 
+File: `count_ipper_lowercases.py`
+
+### Count Vowels
+It counts the vowels present in the word
+
+File: `count_vowels.py`
 
 
 
