@@ -38,7 +38,3 @@ while True:
     else:
         print("Invalid option! Please choose Menu / Bill / Leave")
         break
-
-    
-    
-    
