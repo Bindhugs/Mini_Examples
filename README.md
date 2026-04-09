@@ -1,54 +1,18 @@
-## Mini Examples for Pratice
+## Mini Python Projects
 
-### To_Do_List
-This will help the user manage the to-do-list in simple and easy way
+This repository contains a collection of beginner-friendly Python programs that cover basic concepts, problem solving, and small mini-projects
 
-File: `To_Do_List.py`
+### Basics
+Even_Odd_Checking
 
-### Traffic_signal
-This will predict the traffic light based on the user input
+Leap_Year
 
-File: `traffic_signal.py`
+Prime_number_checking
 
-### Random_number_guessing
-This will generate a random number and will tell the user to guess by giving hints
+Squares_numbers
 
-File: `random_number.py`
 
-### Simple_calculator
-This is a simple calculator which will do basic operations
 
-File: `Simple_calculator.py`
-
-### Random_password
-This will generate a random password with all the characters
-
-File: `Random_password.py`
-
-### Simple_Interest_Calculator
-This will calculate the interest 
-
-File: `simple_interest_calculator.py`
-
-### Palindrome_Checking.py
-This will check whether the given word is palindrome or not
-
-File: `palindrome_checker.py`
-
-### Menu
-This is just a small menu type program
-
-File: `menu.py`
-
-### Count Upper And Lower Case
-It counts upper and lower case letters in the given sentence
-
-File: `count_ipper_lowercases.py`
-
-### Count Vowels
-It counts the vowels present in the word
-
-File: `count_vowels.py`
 
 
 
