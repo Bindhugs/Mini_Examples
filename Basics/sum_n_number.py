@@ -1,3 +1,5 @@
+# Sum of n numbers
+
 num = int(input("Enter a number: "))
 
 total = 0
