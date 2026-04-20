@@ -1,3 +1,5 @@
+# Multiplication Table
+
 
 number = int(input("Enter a number to see the multiplication table: "))
 
