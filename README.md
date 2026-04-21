@@ -11,6 +11,20 @@ Prime_number_checking
 
 Squares_numbers
 
+Multiplication_Table
+
+Sum_of_n_numbers
+
+
+### Games
+Dice_Rolling
+
+Random_password
+
+Random_number
+
+Rock, paper, scissors
+
 
 
 
