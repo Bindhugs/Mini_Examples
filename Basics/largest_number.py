@@ -10,4 +10,3 @@ elif b > c and b > a:
     print(f'{b} is the largest element among {a},{b},{c}')
 else:
     print(f'{c} is the largest element among {a},{b},{c}')
-    
