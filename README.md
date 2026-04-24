@@ -33,6 +33,11 @@ This repository contains a collection of beginner-friendly Python programs that 
 
 `Palindrome Checker.py`
 
+`count_sentence.py`
+
+
+### Utilities
+`
 
 
 
