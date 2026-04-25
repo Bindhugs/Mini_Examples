@@ -3,9 +3,15 @@
 This repository contains a collection of beginner-friendly Python programs that cover basic concepts, problem solving, and small mini-projects
 
 ### Basics
+`Count_digits`
+
 `Even_Odd_Checking`
 
+`Factorial`
+
 `Leap_Year`
+
+`Multiplication_Table`
 
 `Prime_number_checking`
 
@@ -14,6 +20,8 @@ This repository contains a collection of beginner-friendly Python programs that 
 `Multiplication_Table`
 
 `Sum_of_n_numbers`
+
+
 
 
 ### Games
