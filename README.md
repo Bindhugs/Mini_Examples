@@ -17,9 +17,13 @@ This repository contains a collection of beginner-friendly Python programs that 
 
 `Squares_numbers`
 
-`Multiplication_Table`
+`Largest_number`
+
+`Reverse_number`
 
 `Sum_of_n_numbers`
+
+`Sum_of_n_digits`
 
 
 
