@@ -1,4 +1,4 @@
-#CHECKS IF A NUMBER IS PRIME OR NOT
+#CHECKS IF A NUMBER IS PRIME OR NOT AND PRINTS IT
 
 n = int(input("Enter a number: "))
 
