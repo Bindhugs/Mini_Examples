@@ -26,8 +26,6 @@ This repository contains a collection of beginner-friendly Python programs that 
 `Sum_of_n_digits`
 
 
-
-
 ### Games
 `Dice_Rolling`
 
@@ -49,7 +47,9 @@ This repository contains a collection of beginner-friendly Python programs that 
 
 
 ### Utilities
-`
+`Menu.py`
+
+`Simple_Interest_Calculator.py`
 
 
 
