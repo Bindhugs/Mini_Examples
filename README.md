@@ -51,5 +51,11 @@ This repository contains a collection of beginner-friendly Python programs that 
 
 `Simple_Interest_Calculator.py`
 
+`Simple_Calculator.py`
 
+`To_Do_List.py`
+
+`Traffic_signal.py`
+
+`qr_code_generator.py`
 
