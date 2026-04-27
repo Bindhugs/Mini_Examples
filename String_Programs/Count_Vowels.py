@@ -1,4 +1,4 @@
-#Counts the vowels in a string
+#Counts the vowels in a given string
 
 string = input("Enter a string: ")
 count = 0
